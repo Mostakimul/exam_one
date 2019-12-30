@@ -72,7 +72,9 @@ padding: 0px 0px;
     float: left;
     text-align: center;
     background-color: #00b3b3;
-    padding: 20px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
 }
 .form h2 {
     
